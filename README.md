@@ -51,11 +51,11 @@ Core Journeys     VOC to CTQ      TIMWOOD Waste    Redesign Flows    KPI Governa
 
 ### 1. In-Store Consultation & Product Recommendation
 
-#### Sephora — BPR Approach
+#### Sephora - BPR Approach
 
 Shifts initial shade diagnosis upstream to AI/AR tools. By standardizing advice before human interaction occurs, Sephora targets the **waste of rework** (returns from incorrect shade matches) and reduces advisor-to-advisor process variance.
 
-#### Matas Group — TQM Approach
+#### Matas Group - TQM Approach
 
 Retains human advisors ("materialists") as central decision-makers. AI is applied to backend inventory tracking to eliminate:
 
